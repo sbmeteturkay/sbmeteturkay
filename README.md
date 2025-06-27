@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Şaban Mete Türkay Demirkıran 👋</h1>
 
 <p align="center">
-🎮 Gameplay Programmer | 🛠️ Unity, C# | Simulation • XR • Blockchain • Tools • Optimization | BSc Computer Engineer
+🎮 Gameplay Programmer | 🛠️ Unity, C# | 🚀 Simulation • XR • Blockchain • Tools • Optimization | 🎓 BSc Computer Engineer
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ### 🚀 Projects
 
-- [Visutate](https://www.linkedin.com/posts/sabanmete_metaverse-blockchain-unity-activity-6991358420280881152-ogT6) – AR/VR meditation app built with Unity & Apple Vision  
+- [Visutate]([https://www.linkedin.com/posts/sabanmete_metaverse-blockchain-unity-activity-6991358420280881152-ogT6](https://visutate.com/)) – AR/VR meditation app built with Unity & Apple Vision  
 ---
 
 ### 📫 Contact
