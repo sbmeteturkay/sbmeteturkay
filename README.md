@@ -27,7 +27,7 @@
 
 ### 🚀 Projects
 
-- [Visutate]([https://visutate.com/]()) – AR/VR meditation app built with Unity & Apple Vision  
+- [Visutate](https://visutate.com/) – AR/VR meditation app built with Unity & Apple Vision  
 ---
 
 ### 📫 Contact
