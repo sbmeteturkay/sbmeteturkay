@@ -27,7 +27,7 @@
 
 ### 🚀 Projects
 
-- [Visutate]([https://www.linkedin.com/posts/sabanmete_metaverse-blockchain-unity-activity-6991358420280881152-ogT6](https://visutate.com/)) – AR/VR meditation app built with Unity & Apple Vision  
+- [Visutate]([https://visutate.com/]()) – AR/VR meditation app built with Unity & Apple Vision  
 ---
 
 ### 📫 Contact
