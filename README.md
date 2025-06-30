@@ -32,7 +32,7 @@
 
 ### 📫 Contact
 
-- ✉️ [Email](mailto:meteturkay00@gmail.com)
+- ✉️ [Email](mailto:sabanmeteturkay@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/sabanmete)
 
 ---
