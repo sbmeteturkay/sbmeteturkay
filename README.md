@@ -18,7 +18,7 @@
 
 ### 🔧 Tech Stack
 
-- 💻 Languages: `C#`, `ShaderLab`, basic `Python`, `JSON`, `YAML`
+- 💻 Languages: `C#`
 - 🎮 Game Dev: `Unity`, `Physics Systems`, `Animation`, `XR`, `Vehicle Controllers`
 - 🛠️ Tools: `Git`, `Unity Profiler`, `Modular Tooling`, `ScriptableObjects`
 - 🧪 Dev Practice: `OOP`, `Design Patterns`, `SOLID`, `Modular Architecture`
