@@ -1,51 +1,48 @@
 <h1 align="center">Hi, I'm Şaban Mete Türkay Demirkıran 👋</h1>
 
 <p align="center">
-🎮 Gameplay Programmer | 🛠️ Unity, C# | 🚀 Simulation • XR • Blockchain • Tools • Optimization | 🎓 BSc Computer Engineer
+🎮 Gameplay Programmer | Unity & C# | Simulation • Vehicle Physics • Tools • Performance
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineer with 4+ years of experience in Unity game development  
-- 🧠 Passionate about  gameplay programming, vehicle physics, and high-performance mobile games  
-- 🚀 Built tools and systems used in large-scale mobile simulation and XR projects  
-- 🌍 Based in İzmir, open to remote opportunities worldwide  
-- 🔒 Bonus: Familiar with blockchain integrations in Unity
+- 🎓 BSc in Computer Engineering  
+- 🎮 4+ years of professional Unity experience in mobile simulation games  
+- 🧠 Specialized in gameplay systems, vehicle physics, character controllers, AI behaviors, and scalable architecture  
+- 🛠️ Built internal editor tools and modular systems to accelerate team production  
+- 📈 Focused on performance, clean architecture, and long-term maintainability  
+- 🌍 Based in İzmir — open to remote and international opportunities  
+
+I enjoy designing systems that are robust, extensible, and production-ready — not just prototypes.
 
 ---
 
-### 🔧 Tech Stack
+### 🔧 Core Expertise
 
-- 💻 Languages: `C#`
-- 🎮 Game Dev: `Unity`, `Physics Systems`, `Animation`, `XR`, `Vehicle Controllers`
-- 🛠️ Tools: `Git`, `Unity Profiler`, `Modular Tooling`, `ScriptableObjects`
-- 🧪 Dev Practice: `OOP`, `Design Patterns`, `SOLID`, `Modular Architecture`
+- 💻 **Language:** C#  
+- 🎮 **Game Development:** Unity, Physics Systems, Vehicle Controllers, Character Controllers, AI, Animation  
+- 🏗️ **Architecture:** OOP, SOLID, Design Patterns, Modular Architecture, Dependency Injection  
+- ⚡ **Optimization:** Profiling, Mobile Performance, Memory Management  
+- 🛠️ **Tools & Workflow:** Git, Unity Profiler, Custom Editor Tools, ScriptableObjects  
 
 ---
 
-### 🚀 Projects
+### 🚀 Selected Work
 
-- [Visutate](https://visutate.com/) – AR/VR meditation app built with Unity & Apple Vision  
+- **Visutate** – AR/VR meditation experience built with Unity for Apple Vision  
+  https://visutate.com/
+
+- Large-scale mobile simulation projects (vehicle-heavy gameplay, AI systems, tool development)
+
 ---
 
 ### 📫 Contact
 
-- ✉️ [Email](mailto:sabanmeteturkay@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/sabanmete)
+- ✉️ sabanmeteturkay@gmail.com  
+- 💼 https://linkedin.com/in/sabanmete  
 
 ---
 
-> ⚡ Fun Fact: I love building systems that empower teams to iterate faster and players to feel more immersed.
-
-
-<!---
-sbmeteturkay/sbmeteturkay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake.svg">
-</picture>
+> ⚡ I build systems that scale, tools that empower teams, and gameplay that feels solid.
