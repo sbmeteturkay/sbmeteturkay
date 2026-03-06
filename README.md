@@ -1,53 +1,48 @@
-<h1 align="center">Hi, I'm Şaban Mete Türkay Demirkıran 👋</h1>
+
+<h1 align="center">Şaban Mete Türkay Demirkıran</h1>
 
 <p align="center">
-🎮 Gameplay Programmer | Unity & C# | Simulation • Vehicle Physics • Tools • Performance
+Gameplay & Systems Programmer — Unity / C#
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-- 🎓 BSc in Computer Engineering  
-- 🎮 4+ years of professional Unity experience in mobile simulation games  
-- 🧠 Specialized in gameplay systems, vehicle physics, character controllers, AI behaviors, and scalable architecture  
-- 🛠️ Built internal editor tools and modular systems to accelerate team production  
-- 📈 Focused on performance, clean architecture, and long-term maintainability  
-- 🌍 Based in İzmir — open to remote and international opportunities  
+Computer Engineer with 4+ years of professional experience in Unity-based mobile game development.
 
-I enjoy designing systems that are robust, extensible, and production-ready — not just prototypes.
+Worked on mid-core simulation projects involving complex gameplay systems, vehicle physics, AI behaviors, and scalable architecture. Focused on building maintainable, modular systems that support long-term development and live operations.
+
+Based in İzmir. Open to remote opportunities.
 
 ---
 
-### 🔧 Core Expertise
+### Expertise
 
-- 💻 **Language:** C#  
-- 🎮 **Game Development:** Unity, Physics Systems, Vehicle Controllers, Character Controllers, AI, Animation  
-- 🏗️ **Architecture:** OOP, SOLID, Design Patterns, Modular Architecture, Dependency Injection  
-- ⚡ **Optimization:** Profiling, Mobile Performance, Memory Management  
-- 🛠️ **Tools & Workflow:** Git, Unity Profiler, Custom Editor Tools, ScriptableObjects  
+- **Gameplay Programming:** Core mechanics, vehicle systems, character controllers, AI behaviors  
+- **Systems Architecture:** Modular design, dependency injection, SOLID principles, scalable project structure  
+- **Performance:** Mobile optimization, profiling, memory management  
+- **Unity:** Physics, animation systems, editor tooling, ScriptableObjects  
+- **Practices:** Clean code, code reviews, production-oriented development  
 
 ---
 
-### 🚀 Selected Work
+### Selected Work
 
-- **Visutate** – AR/VR meditation experience built with Unity for Apple Vision  
+- Visutate — AR/VR meditation application built with Unity  
   https://visutate.com/
 
-- Large-scale mobile simulation projects (vehicle-heavy gameplay, AI systems, tool development)
+- Mobile simulation titles (vehicle-heavy gameplay, internal tool development, AI systems)
 
 ---
 
-### 📫 Contact
+### Contact
 
-- ✉️ sabanmeteturkay@gmail.com  
-- 💼 https://linkedin.com/in/sabanmete  
-
----
+- Email: sabanmeteturkay@gmail.com  
+- LinkedIn: https://linkedin.com/in/sabanmete
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sbmeteturkay/sbmeteturkay/output/github-contribution-grid-snake.svg">
 </picture>
-
-> ⚡ I build systems that scale, tools that empower teams, and gameplay that feels solid.
