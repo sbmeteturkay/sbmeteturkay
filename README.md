@@ -13,7 +13,7 @@ Computer Engineer with 4+ years of professional experience in Unity-based mobile
 
 Worked on mid-core simulation projects involving complex gameplay systems, vehicle physics, AI behaviors, and scalable architecture. Focused on building maintainable, modular systems that support long-term development and live operations.
 
-Based in İzmir. Open to remote opportunities.
+Based in İzmir. Currently working for ZoiHub.
 
 ---
 
